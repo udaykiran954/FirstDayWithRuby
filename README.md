@@ -1,4 +1,4 @@
-# FirstDayWithRuby
+# Ruby
 First Day at Dayspring Technologies as intern-> completed all installations(Ruby,Rails) and compiled my first program .......
 
 Ruby 
