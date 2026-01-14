@@ -14,3 +14,21 @@ Rails
 ->to change port number-----> rails s -p portnumber
 
 
+Second Day at Dayspring Technologies as intern-> 
+
+-> to create a rails application with database-----> rails new applicatoname -d databasetype
+
+
+skip command ,js command uses as extension in rails new command 
+
+
+
+we can add through rails new command
+
+rails console or rails c
+
+rails db:create
+rails db:seed     to see 
+rails db:migrate  used in production we get exception if we can't use this command
+
+>rails generate scaffold Customer name:string email:string
