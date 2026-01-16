@@ -31,4 +31,6 @@ rails db:create
 rails db:seed     to see 
 rails db:migrate  used in production we get exception if we can't use this command
 
->rails generate scaffold Customer name:string email:string
+>rails generate scaffold Customer name:string email:string  -> it will create a scaffold it means it create all UI,model,crud operations 
+rails db:seed ->it will help us insert the records
+rails db:migrarte ->apply the changes to database
